@@ -22,4 +22,5 @@ This will attempt to look into the `json.readme` property to "Guess" the license
 build
 -----
 
+[![Build Status](https://travis-ci.org/yahoo/normalize-license.png)](https://travis-ci.org/yahoo/normalize-license)
 
