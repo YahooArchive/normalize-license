@@ -1,5 +1,5 @@
-license-normalizer
-==================
+normalize-license
+=================
 
 Attempts to normalize all the different ways people put license information in their package.json files.
 
