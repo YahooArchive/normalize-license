@@ -32,7 +32,7 @@ var clean = function (str) {
 
 var formatLicense = function (json, g) {
     var data = null,
-        licenseData = json.license || json.licenses || undefined;
+        licenseData = json.license || json.licence || json.licenses || undefined;
 
     if (licenseData) {
         if (Array.isArray(licenseData) && licenseData.length > 0) {
